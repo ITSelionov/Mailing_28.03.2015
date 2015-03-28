@@ -1,0 +1,6 @@
+S:\Step\Homeworks\C#\Homework#9(28.03.2015)\Mailing\Mailing\bin\Debug\Mailing.exe.config
+S:\Step\Homeworks\C#\Homework#9(28.03.2015)\Mailing\Mailing\bin\Debug\Mailing.exe
+S:\Step\Homeworks\C#\Homework#9(28.03.2015)\Mailing\Mailing\bin\Debug\Mailing.pdb
+S:\Step\Homeworks\C#\Homework#9(28.03.2015)\Mailing\Mailing\obj\Debug\Mailing.csprojResolveAssemblyReference.cache
+S:\Step\Homeworks\C#\Homework#9(28.03.2015)\Mailing\Mailing\obj\Debug\Mailing.exe
+S:\Step\Homeworks\C#\Homework#9(28.03.2015)\Mailing\Mailing\obj\Debug\Mailing.pdb
